@@ -1,0 +1,9 @@
+# Ignore everything:
+*
+
+# Except for the themes directories:
+!src/
+!src/*.py
+!src/*.ipynb
+!/.gitignore
+src/config_*.py
